@@ -1,5 +1,6 @@
-("Myself *Aditya Ranjan*")
-("I am a Student of Class 9th.")
-("I am Studying in *PM Shri Kendriya Vidyalaya Bailey Road Patna 800014*")
-("My Hobbies are *Chess*,*Coding* and *Over The Box Thinking.*")
-("You Can See My Projects To See My Skills.")
+Name: Aditya Ranjan
+Located_in: Patna, Bihar, India
+Education: Currently in Class 9th
+I Like : ["Anime", "Creating New Codes", "VolleyBall", "Friends"]
+Hobbies: ["Chess", "Outdoor Games", "Coding","Reading Book"]
+*Watch My Project To Know About My Thinking*
