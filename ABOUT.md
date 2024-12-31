@@ -1,4 +1,0 @@
-- 👋 Hi, I’m Aditya
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Computer Applications
-- 💞️ I’m looking to collaborate on I dont know what ?
