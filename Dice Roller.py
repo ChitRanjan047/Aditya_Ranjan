@@ -1,7 +1,7 @@
 #Dice
 import random
 
-print("Welcome to Computer Dice , Roll It As Much As You Want")
+print("Welcome to Computer Dice , Roll It As Much As You Want , Have Fun!!!")
 
 while True :
     input("Press 'Enter' Roll Dice.")
