@@ -23,7 +23,7 @@ if Num1!=0 and Num2!=0 :
     elif Action == 'D':
         print("Result:", Z)
     else:
-        print("Command Undefined.")
+        print("Command Undefined.Please Try Again!!!")
 
 else :
     print("You Can't Take Zero!!!")
